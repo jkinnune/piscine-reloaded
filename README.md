@@ -1,1 +1,1 @@
-Collection of all the exercises we did during the "Piscine"-coding basecamp.
+Collection of the classic exercises we did during the "Piscine"-coding basecamp!

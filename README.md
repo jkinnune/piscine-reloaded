@@ -1,1 +1,1 @@
-# piscine-reloaded
+Collection of all the exercises we did during the "Piscine"-coding basecamp.
